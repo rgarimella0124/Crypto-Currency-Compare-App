@@ -14,7 +14,7 @@
     "@react-native-community/art": "^1.1.2",
     "babel-plugin-transform-inline-environment-variables": "^0.4.3",
     "deprecated-react-native-listview": "0.0.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "numeral": "^2.0.6",
     "react": "16.9.0",
     "react-native": "0.61.5",
